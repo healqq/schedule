@@ -1,0 +1,12 @@
+.column {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #eee;
+    margin: 4px;
+}
+
+.column__header {
+    color: #fff;
+    font-size: 1.4em;
+    background-color: #00BF9A;
+}

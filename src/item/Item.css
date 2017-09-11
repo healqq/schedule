@@ -1,0 +1,25 @@
+.item {
+    border: 1px solid #bbb;
+}
+.item__header {
+    background-color: #008975;
+    font-size: 1em;
+    color: #fff;
+}
+
+.item__contents {
+
+}
+
+.item__form {
+
+}
+
+.button.item__delete {
+    background-color: #BF360C;
+}
+
+.item__form-input {
+     margin: 5px 0;
+
+}

@@ -1,0 +1,13 @@
+.table {
+    
+}
+
+.table__contents {
+    display: flex;
+    flex-direction: row;
+}
+.table__header {
+    color: #fff;
+    font-size: 1.4em;
+    background-color: #00AA8D;
+}

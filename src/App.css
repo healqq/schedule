@@ -22,3 +22,25 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.hidden {
+  display: none;
+}
+
+.button {
+  position: relative;
+
+  display: block;
+  margin: 30px auto;
+  padding: 5px;
+
+  overflow: hidden;
+
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  
+  background-color: #00AA8D;
+  color: #ecf0f1;
+}
